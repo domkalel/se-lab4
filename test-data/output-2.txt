@@ -1,0 +1,3 @@
+SUCCESS
+FAIL # the primary cannnon will fail and nothing will happen
+SUCCESS # the secundary will fired
